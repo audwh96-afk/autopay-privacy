@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>개인정보 처리방침</title>
+</head>
+<body>
+  <h1>개인정보 처리방침</h1>
+
+  <p>
+    본 앱(autopay)은 사용자의 개인정보를 중요하게 생각하며,
+    관련 법령을 준수합니다.
+  </p>
+
+  <h2>수집하는 개인정보</h2>
+  <ul>
+    <li>로그인 시: 사용자 ID</li>
+    <li>문의 시: 이메일 주소</li>
+  </ul>
+
+  <h2>이용 목적</h2>
+  <ul>
+    <li>서비스 제공</li>
+    <li>고객 문의 대응</li>
+  </ul>
+
+  <h2>문의</h2>
+  <p>이메일: fbaudwh@naver.com</p>
+</body>
+</html>
